@@ -6,7 +6,7 @@
 
 ### About Me
 I'm **Udokaku Ugochukwu** you can also call me **Udoka**,
-- Self-taught python developer, Technical writer, Free open source contributor, open source evangelist breaking into data science
+- A self-taught python developer, Technical writer, Free open source contributor, open source evangelist.
 - I currently reside in Port-Harcourt, Nigeria.
 - I am passionate about creating usable products through technology and creating a welcoming environment for getting more people into tech especially women.
 - 🔭 I’m currently working on acquiring more web development skills.
