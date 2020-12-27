@@ -1,15 +1,15 @@
 
-### Hey there 👋 👩‍💻
+### Hey there 👋 
 
 
 ![mine.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1608207895853/dnPdk8oRd.jpeg)
 
-### Meet Me
+### About Me
 I'm **Udokaku Ugochukwu** you can also call me **Udoka**,
 - Self-taught python developer, Technical writer, Free open source contributor, open source evangelist breaking into data science
 - I currently reside in Port-Harcourt, Nigeria.
-- I am passionate about creating usable products , creating a welcoming environment for getting more people into tech especially women.
-- 🔭 I’m currently working on acquiring more data skills.
+- I am passionate about creating usable products through technology and creating a welcoming environment for getting more people into tech especially women.
+- 🔭 I’m currently working on acquiring more web development skills.
 - 👯 I’m looking to collaborate on creating  seamless on-boarding for more people in tech.
 - 💬 Ask me about Data analysis, python, Technical writer and open source .
 -  ⚡  Pronouns: She/Her
@@ -17,7 +17,7 @@ I'm **Udokaku Ugochukwu** you can also call me **Udoka**,
 - 😄   Fun fact: I speak abit of Dutch, make pastries and love playing ps games. 
 
 ### Contact me
-I am open to collaborations and contributions on projects and events, If you would like me to speak at your event,collaborate or contribute to an event or project, feel free to reach out to me through any of my social channels. 
+I am open to internships, collaborations and contributions on projects and events, If you would like me to speak at your event,collaborate or contribute to an event or project, feel free to reach out to me through any of my social channels. 
 You can find me on
 - [LinkedIn](https://www.linkedin.com/in/udokaku-ugochukwu-604024123/)
 - [Twitter](https://twitter.com/Udoka_Ugo_)
